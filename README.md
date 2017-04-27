@@ -172,7 +172,7 @@ We apply `flex: 1` to the `article-content` element so that it fills up the empt
 [Codepen](http://codepen.io/tutsplus/pen/RRNWNR)
 
 
-###4. Add Some Nested Columns
+### 4. Add Some Nested Columns
 
 In the left column, what we actually want is *another* set of columns. So we’re going to replace the second article with the same `columns` container we’ve already used.
 
